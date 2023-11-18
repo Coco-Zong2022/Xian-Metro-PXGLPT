@@ -9,4 +9,9 @@
 
 ## Server酱
 
-[Server酱官网](https://sct.ftqq.com/login)进行登陆
+* 1.手机或电脑浏览器登陆[Server酱官网](https://sct.ftqq.com/login)
+* 2.VX扫码（注意关闭免打扰）
+* 3.返回手机或电脑浏览器点击继续
+* 4.复制SendKey填入`config.json`文件中
+
+<div align=center><img src="https://github.com/Coco-Zong2022/Xian-Metro-PXGLPT/blob/main/server.png"/>
