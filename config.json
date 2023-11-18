@@ -1,0 +1,14 @@
+[
+  {
+    "name": "张三",
+    "username": "用户名",
+    "password": "密码",
+    "sckey": "Server酱中的sendkey"
+  },
+  {
+    "name": "李四",
+    "username": "用户名",
+    "password": "密码",
+    "sckey": "Server酱中的sendkey"
+  }
+]
