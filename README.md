@@ -1,5 +1,5 @@
 <div align=center><img src="https://github.com/Coco-Zong2022/Xian-Metro-PXGLPT/blob/main/logo.png"/>
-<h1>Xian-Metro-PXGLPT</h1>
+<h1>Xi'an-Metro-PXGLPT</h1>
 <h6>培训管理平台</h6>
 </div>
 
